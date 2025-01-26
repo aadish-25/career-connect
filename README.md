@@ -66,18 +66,6 @@ A web platform designed to bridge the gap between students and companies by prov
 - Increases transparency by showing companies' eligibility criteria and requirements.
 - Saves time by automating notifications and updates.
 
-## 👥 **Team Members**
-
-- **Leaders:-**
-
-- Ayush Butala
-- Siddhi Lolge
-- **Members:-**
-
-- Aadish Sonawane
-- Samyak Gaikwad
-- Pratik Dhawale
-
 - **📝 Feedback & Suggestions**
 - We are not accepting contributions to this project, but we value your feedback and suggestions!
 - If you have ideas to enhance this platform, feel free to reach out to us through the Feedback API or submit an issue in this repository.
