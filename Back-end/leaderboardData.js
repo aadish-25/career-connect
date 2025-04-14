@@ -18,7 +18,7 @@ async function populateLeaderboard() {
                 <td class="border p-2">${student.Name}</td>
                 <td class="border p-2">${student.CGPA}</td>
                 <td class="border p-2">${student["LeetCode Score"]}</td>
-                <td class="border p-2">${student["Final Score"]}</td>
+                
             `;
 
             tbody.appendChild(row);
